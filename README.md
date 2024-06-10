@@ -1,1 +1,3 @@
 # EEG-Models-PyTorch
+
+- [ ] EEGNet
